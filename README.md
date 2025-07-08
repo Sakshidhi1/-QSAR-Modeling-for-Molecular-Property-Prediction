@@ -59,7 +59,7 @@ XGBoost	0.43 ± 0.19	0.68	0.56
 ## 🗂️ File Structure
 
 📁 qsar-model/
-├── egfr.csv molecular_descriptors.csv
+├── egfr.csv
 ├── molecular_descriptors.csv
 ├── ridge_model.pkl
 ├── pca_transform.pkl
