@@ -5,7 +5,7 @@ This project involves building Quantitative Structure–Activity Relationship (Q
 ## 📂 Dataset
 
 - Molecular descriptors and fingerprints
-- Total samples: 12150
+- Total samples: 12150 (Smiles , Standard Value (IC50))
 - Features: 7541 after combination of fingerprints and scaled descriptors
 
  ## ⚙️ Preprocessing
